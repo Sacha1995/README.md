@@ -3,4 +3,4 @@ Frontend software engineer from the Netherlands!  I have a passion for writing b
 [![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node.js&logoColor=white&color=1a1b27)](https://nodejs.org/en/) 
 [![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=1a1b27)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=1a1b27)](https://git-scm.com/)
-![](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=Git&logoColor=white&color=1a1b27)
